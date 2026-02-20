@@ -1,11 +1,8 @@
-# README
+# Estrutura do Projeto
 
-## Funcionalidades
+O projeto está organizado nas seguintes pastas:
 
-- Pareamento com base em bioma e estado
-- Compliance com as leis ambientais
-- Suporte a créditos de carbono
-
-## Conexão
-
-Este sistema foi atualizado para incluir novas informações sobre a conexão por estado e bioma, garantido que o sistema segue o Código Florestal Brasileiro e as leis de crédito de carbono.
+- **frontend**: Contém todos os arquivos e recursos relacionados à interface do usuário e à experiência do usuário.
+- **backend**: Abriga a lógica do servidor, gerenciamento de banco de dados, e integração de API.
+- **database**: Guarda scripts de banco de dados, esquemas e outros arquivos relacionados à manipulação e armazenamento de dados.
+- **docs**: Contém a documentação do projeto, incluindo guias de uso, instruções de instalação e outros materiais de apoio.
